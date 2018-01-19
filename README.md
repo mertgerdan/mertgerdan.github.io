@@ -1,6 +1,4 @@
-**Hey there, here are a list of personal projects I have done.**
-
-Here is a current list of these projects:
+**Hey there, here is a current list of these projects:**
 - Minesweeper with JavaFX
 - Tictactoe with JavaFX (TBD)
 
