@@ -2,8 +2,9 @@
 - [Artistic Neural Style Slideshow (ANSS)](https://github.com/hisarcs/neural-style-transfer)
 - [Super Minesweeper with JavaFX](https://github.com/mertgerdan/personal-projects/tree/minesweeper)
 - [Simple Tictactoe with JavaFX](https://github.com/mertgerdan/personal-projects/tree/mertgerdan-tictactoe)
-- [Reliable Compound Interest and Inflation Calculator](https://github.com/mertgerdan/personal-projects/tree/compinterestcalc)
-- [Visionary Plagiarism Detector](https://github.com/mertgerdan/personal-projects/tree/plagiarismdetector)
+- [Compound Interest and Inflation Calculator](https://github.com/mertgerdan/personal-projects/tree/compinterestcalc)
+- [Plagiarism Detector](https://github.com/mertgerdan/personal-projects/tree/plagiarismdetector)
+- [Maze Solver](https://github.com/mertgerdan/personal-projects/tree/cs-p-project)
 
 You can access them by visiting my [personal projects](https://github.com/mertgerdan/personal-projects) github repository.
 
