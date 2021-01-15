@@ -1,3 +1,7 @@
+```html
+<center><embed src="https://mertgerdan.github.io/CV_Winter21.pdf" width="600" height="1200px" /> </center>
+```
+
 **Hey there, I have compiled a list of my personal projects:**
 - [Artistic Neural Style Slideshow (ANSS)](https://github.com/hisarcs/neural-style-transfer)
 - [Super Minesweeper with JavaFX](https://github.com/mertgerdan/personal-projects/tree/minesweeper)
