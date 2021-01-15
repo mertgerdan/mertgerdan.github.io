@@ -1,5 +1,5 @@
 ```html
-<embed src="https://mertgerdan.github.io/CV_Winter21.pdf" width="600px" height="1200px" />
+<img src="mertgerdan.github.io/CV_Winter21.png" alt="CV" width="992" height="1403">
 ```
 
 **Hey there, I have compiled a list of my personal projects:**
