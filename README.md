@@ -1,6 +1,5 @@
-```html
-<img src="mertgerdan.github.io/CV_Winter21.png" alt="CV" width="992" height="1403">
-```
+
+![image](/assets/images/CV_Winter21.png)
 
 **Hey there, I have compiled a list of my personal projects:**
 - [Artistic Neural Style Slideshow (ANSS)](https://github.com/hisarcs/neural-style-transfer)
