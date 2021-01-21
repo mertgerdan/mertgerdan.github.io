@@ -7,6 +7,7 @@
 - [Compound Interest and Inflation Calculator](https://github.com/mertgerdan/personal-projects/tree/compinterestcalc)
 - [Plagiarism Detector](https://github.com/mertgerdan/personal-projects/tree/plagiarismdetector)
 - [Maze Solver](https://github.com/mertgerdan/personal-projects/tree/cs-p-project)
+- Currently working on a "six degrees of Kevin Bacon" adaptation for Instagram accounts.
 
 You can access them by visiting my [personal projects](https://github.com/mertgerdan/personal-projects) github repository.
 
