@@ -1,5 +1,5 @@
 
-![image](CV_Winter21_Updated.png)
+![image](CV_WN21_Updated.png)
 
 **Hey there, I have compiled a list of my personal projects:**
 - [Artistic Neural Style Slideshow (ANSS)](https://github.com/hisarcs/neural-style-transfer)
