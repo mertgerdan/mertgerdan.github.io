@@ -7,10 +7,10 @@
 - [Maze Solver](https://github.com/mertgerdan/personal-projects/tree/cs-p-project)
 - Currently working on a "six degrees of Kevin Bacon" adaptation for Instagram accounts.
 
--[About FRC](frc.html)
--About Piwars Turkey
--About Hisar Coding Summit
--About Microsoft Imagine Cup
+- [About FRC](frc.html)
+- About Piwars Turkey
+- About Hisar Coding Summit
+- About Microsoft Imagine Cup
 
 You can access them by visiting my [personal projects](https://github.com/mertgerdan/personal-projects) github repository.
 
