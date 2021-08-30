@@ -13,6 +13,4 @@ More on Activities
 - About Hisar Coding Summit
 - About Microsoft Imagine Cup
 
-You can access them by visiting my [personal projects](https://github.com/mertgerdan/personal-projects) github repository.
-
 _Mert_
