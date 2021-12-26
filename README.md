@@ -1,3 +1,7 @@
+**Education**
+University of Michigan, EECS
+B.S.E in Computer Science at the College of Engineering
+Fall 2020 - Present
 
 **Hey there, I have compiled a list of my projects:**
 
@@ -13,12 +17,9 @@
 - [Compound Interest and Inflation Calculator (2018)](https://github.com/mertgerdan/personal-projects/tree/compinterestcalc)
 
 
-dude
+**Activities**
+- [Instructional Aide for EECS 281: Data Structures and Algorithms](ia281.html)
+- [About First Robotics Competition (FRC)](frc.html)
+- [About Microsoft Imagine Cup](imagine.html)
 
-More on Activities
-- [About FRC](frc.html)
-- About Piwars Turkey
-- About Hisar Coding Summit
-- About Microsoft Imagine Cup
-
-_Mert_
+_-Mert_
