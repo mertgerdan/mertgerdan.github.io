@@ -13,7 +13,7 @@
 - [Compound Interest and Inflation Calculator (2018)](https://github.com/mertgerdan/personal-projects/tree/compinterestcalc)
 
 
-
+dude
 
 More on Activities
 - [About FRC](frc.html)
