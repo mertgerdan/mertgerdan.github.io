@@ -1,7 +1,9 @@
 **Education**
 
 University of Michigan, EECS
+
 B.S.E in Computer Science at the College of Engineering
+
 Fall 2020 - Present
 
 **Hey there, I have compiled a list of my projects:**
