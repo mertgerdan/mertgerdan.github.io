@@ -2,6 +2,7 @@
 **Hey there, I have compiled a list of my projects:**
 
 - Currently working on a "six degrees of Kevin Bacon" adaptation for Instagram accounts.
+- [Search Engine (2021)](search-engine.html)
 - Predicting Solar Radiation Using Machine Learning (2021)
 - Travelling Salesman Problem Solver (2021)
 - [Maze Solver (2019)](https://github.com/mertgerdan/personal-projects/tree/cs-p-project)
