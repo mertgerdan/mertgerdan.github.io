@@ -1,7 +1,7 @@
 **Hey there, I have compiled a list of my projects:**
 
 - Currently working on a "six degrees of Kevin Bacon" adaptation for Instagram accounts.
-- [Search Engine (2021)](search-engine)
+- [Search Engine (2021)](search-engine.html)
 - [Instagram Clone (2021)](instagram.html)
 - [Predicting Solar Radiation Using Machine Learning (2021)](solar-radiation.html)
 - [Travelling Salesman Problem Solver (2021)](tsp.html)
