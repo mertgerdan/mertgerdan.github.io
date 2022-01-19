@@ -1,4 +1,12 @@
-**Hey there, I have compiled a list of my projects:**
+**A little about me:**
+I'm studying CS at the University of Michigan, with an unofficial Econ minor.
+Current courses I'm taking (Winter 2022):
+- [EECS 498 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+- [EECS 388 Intro to Computer Security](https://eecs388.org/)
+- [EECS 370 Intro to Computer Organization](https://eecs370.github.io/)
+- Math 423 Mathematics of Finance
+
+**I have also compiled a list of my projects:**
 
 - Currently working on a "six degrees of Kevin Bacon" adaptation for Instagram accounts.
 - [Search Engine (2021)](search-engine)
@@ -17,4 +25,4 @@
 - [About First Robotics Competition (FRC)](frc)
 - [About Microsoft Imagine Cup](imagine)
 
-_-Mert_
+_-M_
