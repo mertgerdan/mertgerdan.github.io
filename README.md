@@ -1,13 +1,16 @@
 **A little about me:**
-I'm Mert, I'm currently a junior at UM and I'm originally from Istanbul, Turkey.
+
+Hi! I'm Mert, I'm currently a junior at UM and I'm originally from Istanbul, Turkey.
 
 **Courses I'm taking (Winter 2022):**
+
 - [EECS 498 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 - [EECS 388 Intro to Computer Security](https://eecs388.org/)
 - [EECS 370 Intro to Computer Organization](https://eecs370.github.io/)
 - Math 423 Mathematics of Finance
 
 **I have also compiled a list of my projects:**
+
 - Currently working on a "six degrees of Kevin Bacon" adaptation for Instagram accounts.
 - [Search Engine (2021)](search-engine)
 - [Instagram Clone (2021)](instagram)
