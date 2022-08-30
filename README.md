@@ -1,8 +1,14 @@
 **A little about me:**
 
-Hi! I'm Mert, I'm currently a junior at UM and I'm originally from Istanbul, Turkey.
+Hi! I'm Mert, I'm currently a senior at UM and I'm originally from Istanbul, Turkey.
 
-**Courses I'm taking (Winter 2022):**
+**Courses I am taking (Fall 2022):**
+
+- [EECS 482 Operating Systems](https://web.eecs.umich.edu/~harshavm/eecs482/)
+- EECS 497 Human Centered Software Design
+- ECON 444 European Economy
+
+**Courses I just took (Winter 2022):**
 
 - [EECS 498 Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
 - [EECS 388 Intro to Computer Security](https://eecs388.org/)
