@@ -1,4 +1,5 @@
-**Check out my [P1 video](https://www.youtube.com/watch?v=Ljk5SB6Tt04&feature=youtu.be) for EECS 498, a VR Office Hours adventure in the BBB!**
+**EECS 498 Portfolio:\
+Check out my [P1 video](https://www.youtube.com/watch?v=Ljk5SB6Tt04&feature=youtu.be) for EECS 498, a VR Office Hours adventure in the BBB!**
 \
 \
 **A little about me:**
