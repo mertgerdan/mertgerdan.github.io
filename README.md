@@ -1,6 +1,7 @@
 **EECS 498 Portfolio:\
 Check out my [P1 video](https://www.youtube.com/watch?v=Ljk5SB6Tt04&feature=youtu.be) for EECS 498, a VR Office Hours adventure in the BBB!**
 \
+If you got some more time, check out my [P2 video](https://youtu.be/F070ei-e1-o), an AR Pokemon Go-like Ann Arbor Exploration App!
 \
 **A little about me:**
 
