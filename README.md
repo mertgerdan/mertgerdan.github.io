@@ -1,15 +1,13 @@
 **EECS 498 Portfolio:\
-Check out my [P1 video](https://www.youtube.com/watch?v=Ljk5SB6Tt04&feature=youtu.be) for EECS 498, a VR Office Hours adventure in the BBB!**
+Here's the [website](stickshiftsim.spar.sh) for our final deliverable, a Stick Shift Driving Simulator in VR!
 \
-If you got some more time, check out my [P2 video](https://youtu.be/F070ei-e1-o), an AR Pokemon Go-like Ann Arbor Exploration App!
-\
-Saving the best for last, here's the [website](stickshiftsim.spar.sh) for P3, a Stick Shift Driving Simulator in VR!
 \
 **A little about me:**
+Hi! I'm Mert, I just graduated from UM and I'm originally from Istanbul, Turkey.
 
-Hi! I'm Mert, I'm currently a senior at UM and I'm originally from Istanbul, Turkey.
 
 **Courses I am taking (Winter 2023)**:
+
 - EECS 498 Extended Reality and Society
 - [EECS 390 Programming Languages](https://eecs390.org/)
 - HIST 343: Rise of the Corporation
