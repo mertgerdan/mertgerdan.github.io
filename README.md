@@ -1,5 +1,5 @@
 **EECS 498 Portfolio:\
-Here's the [website](stickshiftsim.spar.sh) for our final deliverable, a Stick Shift Driving Simulator in VR!
+Here's the [website](https://stickshiftsim.spar.sh) for our final deliverable, a Stick Shift Driving Simulator in VR!
 \
 \
 **A little about me:**
