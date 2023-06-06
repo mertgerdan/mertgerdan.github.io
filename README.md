@@ -8,7 +8,7 @@ Hi! I'm Mert, I just graduated from UM and I'm originally from Istanbul, Turkey.
 
 **Courses I am taking (Winter 2023)**:
 
-- EECS 498 Extended Reality and Society
+- [EECS 498 Extended Reality and Society](https://umichxr.com/)
 - [EECS 390 Programming Languages](https://eecs390.org/)
 - HIST 343: Rise of the Corporation
 
